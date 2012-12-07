@@ -42,7 +42,7 @@ public class RepositoryConfigration {
 					NamedNodeMap map = node.getAttributes();
 					log.info(map.getNamedItem("name"));
 					log.info(map.getNamedItem("nature"));
-					log.info("-----------------");
+					log.info("----------------");
 					NodeList properties = node.getChildNodes();
 					for(int idx = 0; idx < properties.getLength(); idx ++){
 						Node property = properties.item(idx);
