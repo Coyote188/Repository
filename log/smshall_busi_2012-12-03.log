@@ -1,0 +1,46 @@
+2012-12-03 14:35:43,411 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:12)     - org.repository.annotation.Entity
+2012-12-03 14:35:43,420 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:14)     - org.repository.TestBean
+2012-12-03 14:36:43,723 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:12)     - org.repository.annotation.Entity
+2012-12-03 14:36:43,732 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:14)     - org.repository.TestBean
+2012-12-03 14:36:43,732 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:16)     - org.repository.annotation.Entity
+2012-12-03 14:37:14,190 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:12)     - org.repository.annotation.Entity
+2012-12-03 14:37:14,198 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:14)     - org.repository.TestBean
+2012-12-03 14:37:14,198 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:16)     - org.repository.annotation.Entity
+2012-12-03 14:37:18,938 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:12)     - org.repository.annotation.Entity
+2012-12-03 14:37:18,956 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:14)     - org.repository.TestBean
+2012-12-03 14:39:07,126 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:13)     - org.repository.annotation.Entity
+2012-12-03 14:39:07,127 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:15)     - org.repository.TestBean
+2012-12-03 14:39:07,990 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:17)     - id
+2012-12-03 14:39:08,791 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:17)     - userArea
+2012-12-03 14:39:08,982 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:17)     - userNum
+2012-12-03 14:39:09,166 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:17)     - createDate
+2012-12-03 14:45:33,325 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:16)     - org.repository.annotation.Entity
+2012-12-03 14:45:33,328 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:18)     - org.repository.TestBean
+2012-12-03 14:45:38,096 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:27)     - id
+2012-12-03 14:45:40,547 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:27)     - userArea
+2012-12-03 14:45:40,548 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:27)     - userNum
+2012-12-03 14:45:40,548 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:27)     - createDate
+2012-12-03 14:50:03,231 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:19)     - Table=T_BLACK_LIST
+2012-12-03 14:50:03,240 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:33)     - id
+2012-12-03 14:50:03,241 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:33)     - userArea
+2012-12-03 14:50:03,242 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:33)     - userNum
+2012-12-03 14:50:03,242 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:33)     - createDate
+2012-12-03 14:50:18,266 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:19)     - Table=T_BLACK_LIST
+2012-12-03 14:50:54,872 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:33)     - id
+2012-12-03 14:51:37,981 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:19)     - Table=T_BLACK_LIST
+2012-12-03 14:51:43,217 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:33)     - userArea
+2012-12-03 14:51:54,336 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:33)     - userNum
+2012-12-03 14:55:09,606 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:19)     - Table=T_BLACK_LIST
+2012-12-03 14:55:18,367 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:34)     - Field=userArea name=USER_AREA unique=false nullable=true
+2012-12-03 14:55:19,422 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:34)     - Field=userNum name=USER_NUM unique=false nullable=true
+2012-12-03 14:55:19,894 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:34)     - Field=createDate name=CREATE_TIME unique=false nullable=true
+2012-12-03 14:55:57,382 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:19)     - Table=T_BLACK_LIST
+2012-12-03 14:55:58,005 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:33)     - Field=id name=BLACK_ID unique=true nullable=true
+2012-12-03 14:55:58,446 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:37)     - Field=userArea name=USER_AREA unique=false nullable=true
+2012-12-03 14:55:58,950 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:37)     - Field=userNum name=USER_NUM unique=false nullable=true
+2012-12-03 14:55:59,469 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:37)     - Field=createDate name=CREATE_TIME unique=false nullable=true
+2012-12-03 16:18:36,595 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:26)     - Table=T_BLACK_LIST
+2012-12-03 16:18:41,908 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:37)     - field=id generic_name= uuid strategy= 0
+2012-12-03 16:18:41,908 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:44)     - Field=userArea name=USER_AREA unique=false nullable=true
+2012-12-03 16:18:41,908 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:44)     - Field=userNum name=USER_NUM unique=false nullable=true
+2012-12-03 16:18:41,908 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:44)     - Field=createDate name=CREATE_TIME unique=false nullable=true

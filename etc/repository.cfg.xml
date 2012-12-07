@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository-config>
+	<session-factory name="default" nature="default">
+		<property name="repository.isdbcp">true</property>
+		<property name="repository.url">jdbc:oracle:thin:@172.20.13.140:1521:orcl</property>
+		<property name="repository.username">ca</property>
+		<property name="repository.password">ca_*)*!%^</property>
+		<property name="repository.driver">oracle.jdbc.driver.OracleDriver</property>
+		<property name="repository.initactive">10</property>
+		<property name="repository.maxactive">20</property>
+	</session-factory>
+	
+	<session-factory name="src1">
+		<property name="repository.isdbcp">true</property>
+		<property name="repository.url">jdbc:oracle:thin:@172.20.13.140:1521:orcl</property>
+		<property name="repository.username">ca</property>
+		<property name="repository.password">ca_*)*!%^</property>
+		<property name="repository.driver">oracle.jdbc.driver.OracleDriver</property>
+		<property name="repository.initactive">10</property>
+		<property name="repository.maxactive">20</property>
+	</session-factory>
+</repository-config>

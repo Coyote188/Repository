@@ -1,0 +1,196 @@
+2012-12-07 10:23:06,184 INFO  [main] analytic.ObjectAnalytic (ObjectAnalytic.java:34)     - Table=T_BLACK_LIST Catalog=default
+2012-12-07 10:26:15,951 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:37)     - [#text: 
+	]
+2012-12-07 10:26:15,959 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:37)     - [session-factory: null]
+2012-12-07 10:26:15,968 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:37)     - [#text: 
+]
+2012-12-07 10:26:57,227 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:37)     - [#text: 
+	]
+2012-12-07 10:26:57,236 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:37)     - [session-factory: null]
+2012-12-07 10:26:57,240 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:37)     - [#text: 
+]
+2012-12-07 10:32:13,804 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:33)     - repository-config
+2012-12-07 10:33:35,534 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:33)     - repository-config
+2012-12-07 10:33:35,549 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:33:35,550 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:33:35,551 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:33:35,552 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:33:35,554 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:33:35,554 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:33:35,555 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:33:35,556 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:33:35,558 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:33:35,559 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:33:35,559 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:33:35,560 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:33:35,561 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:33:35,563 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:33:35,564 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+	]
+2012-12-07 10:34:08,890 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:33)     - repository-config
+2012-12-07 10:34:08,912 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:34:08,914 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:34:08,915 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:34:08,917 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:34:08,918 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:34:08,921 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:34:08,922 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:34:08,924 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:34:08,927 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:34:08,929 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:34:08,934 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:34:08,935 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:34:08,938 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+		]
+2012-12-07 10:34:08,940 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [property: null]
+2012-12-07 10:34:08,942 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:41)     - [#text: 
+	]
+2012-12-07 10:34:39,907 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:33)     - repository-config
+2012-12-07 10:34:39,923 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:40)     - [session-factory: null]
+2012-12-07 10:34:39,924 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:40)     - [session-factory: null]
+2012-12-07 10:37:07,842 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:37:07,857 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - com.sun.org.apache.xerces.internal.dom.AttributeMap@e22f2b
+2012-12-07 10:37:07,858 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - com.sun.org.apache.xerces.internal.dom.AttributeMap@186dda3
+2012-12-07 10:38:05,363 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:38:05,381 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:42)     - 
+2012-12-07 10:38:05,382 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - com.sun.org.apache.xerces.internal.dom.AttributeMap@e22f2b
+2012-12-07 10:38:05,384 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:42)     - 
+2012-12-07 10:38:05,385 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - com.sun.org.apache.xerces.internal.dom.AttributeMap@186dda3
+2012-12-07 10:38:42,598 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:38:42,616 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:42)     - -----null
+2012-12-07 10:38:42,617 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - com.sun.org.apache.xerces.internal.dom.AttributeMap@45c97b
+2012-12-07 10:38:42,618 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:42)     - -----null
+2012-12-07 10:38:42,619 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - com.sun.org.apache.xerces.internal.dom.AttributeMap@1aecc3a
+2012-12-07 10:39:16,660 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:39:16,675 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - type="oracle"
+2012-12-07 10:39:16,677 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - type="oracle"
+2012-12-07 10:39:54,943 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:39:54,961 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - type="oracle"
+2012-12-07 10:39:54,962 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - name="default"
+2012-12-07 10:39:54,963 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - nature="default"
+2012-12-07 10:39:54,965 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:46)     - monitor="true"
+2012-12-07 10:39:54,966 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - type="oracle"
+2012-12-07 10:39:54,967 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - name="src1"
+2012-12-07 10:39:54,969 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - 
+2012-12-07 10:39:54,970 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:46)     - monitor="true"
+2012-12-07 10:40:35,002 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:40:35,017 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - type="oracle"
+2012-12-07 10:40:35,018 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - name="default"
+2012-12-07 10:40:35,019 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - nature="default"
+2012-12-07 10:40:35,020 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:46)     - monitor="true"
+2012-12-07 10:40:35,022 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:47)     - -----------------
+2012-12-07 10:40:35,022 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - type="oracle"
+2012-12-07 10:40:35,023 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - name="src1"
+2012-12-07 10:40:35,024 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - 
+2012-12-07 10:40:35,025 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:46)     - monitor="true"
+2012-12-07 10:40:35,027 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:47)     - -----------------
+2012-12-07 10:44:04,097 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:44:04,112 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - name="default"
+2012-12-07 10:44:04,113 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - nature="default"
+2012-12-07 10:44:04,114 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - -----------------
+2012-12-07 10:44:04,115 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - name="src1"
+2012-12-07 10:44:04,117 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - 
+2012-12-07 10:44:04,117 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - -----------------
+2012-12-07 10:47:04,216 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:47:04,231 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - name="default"
+2012-12-07 10:47:04,233 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - nature="default"
+2012-12-07 10:47:04,234 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - -----------------
+2012-12-07 10:47:04,236 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,237 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,238 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,239 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,241 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,242 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,244 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,245 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,246 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,249 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,250 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,251 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,252 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,253 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,254 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+	]
+2012-12-07 10:47:04,255 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - name="src1"
+2012-12-07 10:47:04,256 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - 
+2012-12-07 10:47:04,256 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - -----------------
+2012-12-07 10:47:04,257 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,258 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,259 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,260 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,261 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,262 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,263 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,263 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,264 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,265 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,266 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,267 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,267 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+		]
+2012-12-07 10:47:04,268 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [property: null]
+2012-12-07 10:47:04,269 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - [#text: 
+	]
+2012-12-07 10:47:25,964 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:36)     - repository-config
+2012-12-07 10:47:25,985 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - name="default"
+2012-12-07 10:47:25,988 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - nature="default"
+2012-12-07 10:47:25,990 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - -----------------
+2012-12-07 10:47:25,991 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:25,992 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:25,993 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:25,994 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:25,996 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:25,997 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:25,999 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,000 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,002 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,004 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,005 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,006 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,007 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,008 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,009 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,010 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:43)     - name="src1"
+2012-12-07 10:47:26,011 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:44)     - 
+2012-12-07 10:47:26,012 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:45)     - -----------------
+2012-12-07 10:47:26,013 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,014 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,015 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,016 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,017 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,018 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,019 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,021 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,022 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,024 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,025 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,026 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,027 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
+2012-12-07 10:47:26,028 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - property
+2012-12-07 10:47:26,029 INFO  [main] config.RepositoryConfigration (RepositoryConfigration.java:49)     - #text
