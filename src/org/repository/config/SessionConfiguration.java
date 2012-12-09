@@ -1,5 +1,10 @@
 package org.repository.config;
 
+/**
+ * 
+ * @author Coyote
+ *
+ */
 public class SessionConfiguration {
 	
 	private boolean dhcp;
