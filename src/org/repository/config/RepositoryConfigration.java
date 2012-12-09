@@ -40,13 +40,21 @@ public class RepositoryConfigration {
 				for (int index = 0; index < nodeList.getLength(); index++) {
 					Node node = nodeList.item(index);
 					NamedNodeMap map = node.getAttributes();
-					log.info(map.getNamedItem("name"));
-					log.info(map.getNamedItem("nature"));
-					log.info("----------------");
+					Node sessionName = map.getNamedItem("name");
+					log.info("session name =" + sessionName.getNodeValue());
+					Node sessionNature = map.getNamedItem("nature");
+					log.info("session nature = " + sessionNature.getNodeValue());
 					NodeList properties = node.getChildNodes();
 					for(int idx = 0; idx < properties.getLength(); idx ++){
 						Node property = properties.item(idx);
-						log.info(property.getNodeName());
+						
+						if(property.getNodeName().equals("property")){
+//							SessionConfiguration configuration = new SessionConfiguration();
+							NamedNodeMap propertyAttr = property.getAttributes();
+							Node name = propertyAttr.getNamedItem("name");
+							log.info(name.getNodeValue() +" = " + property.getTextContent());
+						}
+//						log.info(property.getNodeName() + " - " + property.getUserData() );
 					}
 				}
 			}
