@@ -17,9 +17,5 @@ public class RepositoryTest {
 		ObjectAnalytic.analitic(bean);
 	}
 	
-	@Test
-	public void xmlTest(){
-		new RepositoryConfigration();
-	}
 
 }
